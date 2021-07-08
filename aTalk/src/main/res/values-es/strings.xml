@@ -160,7 +160,7 @@
     <string name="service_gui_SHARE">compartir…</string>
     <string name="service_gui_SHARE_TEXT">Compartir texto&#8230;</string>
     <string name="service_gui_SHARE_FILE">Recurso compartido de archivos&#8230;</string>
-    <string name="service_gui_SNOOZE">dormitar</string>
+    <string name="service_gui_SNOOZE">posponer</string>
 
     <!-- ExoPlayer -->
     <string name="gui_playback_error">No se puede encontrar ningún contenido multimedia para reproducir</string>
@@ -177,7 +177,7 @@
 	<string name="service_gui_CHANGE_NICKNAME_LABEL">En el campo de abajo, puedes introducir tu nuevo apodo.</string>
     <string name="service_gui_CHANGE_NICKNAME_NULL">El contenido del campo Nick Name no puede ser nulo</string>
     <string name="service_gui_CHANGE_ROOM_INFO">Cambiar información de la sala de chat</string>
-    <string name="service_gui_CHANGE_ROOM_SUBJECT_LABEL">In the field below, you can enter the new subject for this room.</string>
+    <string name="service_gui_CHANGE_ROOM_SUBJECT_LABEL">En el campo de abajo, Puedes escribir el nuevo asunto para esta sala.</string>
 	<string name="service_gui_CHANGE_VIDEO_QUALITY">Cambiar la calidad de vídeo remoto</string>
 	<string name="service_gui_CHAT_CONFERENCE_ITEM_LABEL">%1$s\'s sala</string>
 	<string name="service_gui_CHAT_CONFERENCE_LABEL">Salas</string>
@@ -198,7 +198,7 @@
 	<string name="service_gui_CHATROOM_USER_QUIT">ha dejado %1$s</string>
 	<string name="service_gui_CHATROOM_NAME">sala</string>
 	<string name="service_gui_CHATROOM_NAME_INFO">En el siguiente campo introducir el nombre de la sala de chat que desea crear.</string>
-	<string name="service_gui_CHATROOM_NOT_EXIST">La habitación %1$s no se encontró en el servidor %2$s. Por favor verificar si el nombre que se ha escrito es correcto.</string>
+	<string name="service_gui_CHATROOM_NOT_EXIST">La sala %1$s no se encontró en el servidor %2$s. Por favor verificar si el nombre que se ha escrito es correcto.</string>
 	<string name="service_gui_CHATROOM_NOT_CONNECTED">Se necesita estar conectado para unirse a la sala %1$s..</string>
 	<string name="service_gui_CHATROOM_LEAVE_NOT_CONNECTED">Se necesita estar en línea para poder salir de una sala.</string>
 	<string name="service_gui_CHATROOM_NOT_JOINED">Se necesita estar unido a la sala de chat para poder hacer más operaciones con ella..</string>
@@ -247,9 +247,9 @@
 
     <!-- About Dialog -->
     <string name="AboutDialog_help"><a href="https://cmeng-git.github.io/atalk">Ayuda online</a></string>
-    <string name="AboutDialog_title">Sobre</string>
+    <string name="AboutDialog_title">Acerca de</string>
     <string name="AboutDialog_Version">Versión %s</string>
-    <string name="About_action">Sobre</string>
+    <string name="About_action">Acerca de</string>
     <string name="About_help">Ayuda</string>
     <string name="check_new_version">Comprobar actualizaciones</string>
     <string name="show_history_log">Historial de registros</string>
@@ -307,7 +307,7 @@
     <string name="service_gui_REFRESH_STORES_DISCINFO">XEP-0030: Descubrimiento de servicios</string>
     <string name="service_gui_REFRESH_STORES_HINT">Compruebe que el ítem no tenga un almacenamiento persistente que deba limpiarse y refrescarse; realice esta operación sólo cuando sea necesario.!\n</string>
     <string name="service_gui_REFRESH_STORES_ROSTER">XEP-0237: Lista de participantes</string>
-    <string name="service_gui_REFRESH_STORES_OMEMO">XEP-0384: Encriptación OMEMO</string>
+    <string name="service_gui_REFRESH_STORES_OMEMO">XEP-0384: Cifrado OMEMO</string>
 
     <string name="service_gui_UNREGISTERED_MESSAGE">Error en el inicio de sesión de conexión de la cuenta:\nNombre de usuario: %1$s\nServidor Name: %2$s\nLa cuenta está fuera de línea.</string>
     <string name="service_gui_CREATE_VIDEO_BRIDGE">Crear una pasarela de vídeo&#8230;</string>
@@ -1136,7 +1136,7 @@
 
     <!-- SIP preferences -->
     <string name="service_gui_CRYPTOSIP_REGISTRAR">Registrador de cifrado</string>
-    <string name="service_gui_SIP_ADVANCED">Advanzado</string>
+    <string name="service_gui_SIP_ADVANCED">Avanzado</string>
     <string name="service_gui_SIP_AUTH_NAME">Nombre para la autorización</string>
     <string name="service_gui_SIP_AUTO_SIGNIN">Conectar al inicio</string>
     <string name="service_gui_SIP_CLIST_PASS">Contraseña</string>
@@ -1187,7 +1187,7 @@
     <string name="service_gui_PREF_VIDEO_ENC_SUMMARY">Anular formatos de vídeo globales definidos para esta cuenta</string>
 
     <!-- Jabber preferences -->
-    <string name="service_gui_JBR_ADVANCED">Advanzado</string>
+    <string name="service_gui_JBR_ADVANCED">Avanzado</string>
     <string name="service_gui_JBR_AUTO_SIGNIN">Conectar al inicio</string>
     <string name="service_gui_JBR_AUTO_STUN_DICOVERY">Auto descubrir servidores STUN/TURN</string>
     <string name="service_gui_JBR_CONN_GENERAL">General</string>
@@ -1224,7 +1224,7 @@
     <string name="service_gui_JBR_PRIORITY">Prioridad (rango:-128~127)</string>
     <string name="service_gui_JBR_RES_AUTO_GEN">Autogenerar recurso</string>
     <string name="service_gui_JBR_RESOURCE">ID del recurso Jabber</string>
-    <string name="service_gui_JBR_RESURCE_NAME">Nombre del recursoe</string>
+    <string name="service_gui_JBR_RESURCE_NAME">Nombre del recurso</string>
     <string name="service_gui_JBR_SERVER">Conectar al servidor con IP</string>
 	<string name="service_gui_JBR_SERVER_OPTIONS">Opciones del servidor</string>
     <string name="service_gui_JBR_STORE_PASSWORD">Recordar la contraseña</string>
